@@ -1,0 +1,332 @@
+{
+  "sections": [
+    {
+      "id": "framework",
+      "title": "By Framework",
+      "topics": [
+        {
+          "id": "angularjs",
+          "title": "AngularJS",
+          "tags": [
+            "angularjs"
+          ]
+        },
+        {
+          "id": "nodejs",
+          "title": "Node.js",
+          "tags": [
+            "nodejs"
+          ]
+        },
+        {
+          "id": "aspnet-mvc",
+          "title": "ASP.NET MVC",
+          "tags": [
+            "aspnet-mvc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scenarios",
+      "title": "By Scenario",
+      "topics": [
+        {
+          "id": "spa-web",
+          "title": "Single Page Web Apps",
+          "tags": [
+            "single-page-app"
+          ]
+        },
+        {
+          "id": "web",
+          "title": "Web",
+          "tags": [
+            "web"
+          ]
+        },
+        {
+          "id": "mobile",
+          "title": "Mobile (Native)",
+          "tags": [
+            "mobile"
+          ]
+        },
+        {
+          "id": "desktop",
+          "title": "Desktop",
+          "tags": [
+            "desktop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "title": "By Language",
+      "topics": [
+        {
+          "id": "javascript",
+          "title": "Javascript",
+          "tags": [
+            "javascript"
+          ]
+        },
+        {
+          "id": "csharp",
+          "title": "C#",
+          "tags": [
+            "csharp"
+          ]
+        },
+        {
+          "id": "java",
+          "title": "Java",
+          "tags": [
+            "java"
+          ]
+        },
+        {
+          "id": "php",
+          "title": "PHP",
+          "tags": [
+            "php"
+          ]
+        },
+        {
+          "id": "ruby",
+          "title": "Ruby",
+          "tags": [
+            "ruby"
+          ]
+        }
+      ]
+    }
+  ],
+  "repos": [
+    {
+      "id": "ad-federation-server",
+      "url": "https://github.com/auth0/ad-federation-server",
+      "created_at": "2013-03-21T21:55:39Z",
+      "updated_at": "2015-01-29T21:16:22Z",
+      "pushed_at": "2015-01-29T21:16:22Z",
+      "description": "Active Directory WS-Federation Server example in node.js",
+      "fork": false,
+      "name": "Active Directory WS-Federation Server",
+      "type": "sample",
+      "tags": [
+        "active-directory",
+        "nodejs",
+        "javascript"
+      ]
+    },
+    {
+      "id": "auth0-aspnet-apikeys-sample",
+      "url": "https://github.com/auth0/auth0-aspnet-apikeys-sample",
+      "created_at": "2015-01-14T13:36:51Z",
+      "updated_at": "2015-01-29T23:33:20Z",
+      "pushed_at": "2015-01-29T23:33:20Z",
+      "description": "Sample .NET implementation for the blog post \"Using JSON Web Tokens as API Keys\"",
+      "fork": false,
+      "name": "ASP.NET Web App Secured with Tokens",
+      "type": "sample",
+      "tags": [
+        "aspnet-web-api",
+        "api",
+        "dotnet",
+        "csharp"
+      ]
+    },
+    {
+      "id": "auth0-html5-multi-api-delegation-sample",
+      "url": "https://github.com/auth0/auth0-html5-multi-api-delegation-sample",
+      "created_at": "2015-01-14T13:22:49Z",
+      "updated_at": "2015-01-29T23:36:00Z",
+      "pushed_at": "2015-01-29T23:36:00Z",
+      "description": "Sample showing how to use the delegation endpoint to access different APIs from an HTML5 client",
+      "fork": false,
+      "name": "HTML5 App with Multiple APIs",
+      "type": "sample",
+      "tags": [
+        "web",
+        "api",
+        "javascript",
+        "single-page-app",
+        "dotnet",
+        "csharp",
+        "aspnet-mvc",
+        "html",
+        "delegation"
+      ]
+    },
+    {
+      "id": "auth0-invite-only-sample",
+      "url": "https://github.com/auth0/auth0-invite-only-sample",
+      "created_at": "2015-01-08T01:28:57Z",
+      "updated_at": "2015-01-29T23:37:34Z",
+      "pushed_at": "2015-01-29T23:37:34Z",
+      "description": "Sample showing an invite only workflow. Users will not be able to sign-in, but provisioning will be managed by the (customer) administrators.",
+      "fork": false,
+      "name": "Invite Only Sample",
+      "type": "sample",
+      "tags": [
+        "aspnet-mvc",
+        "dotnet",
+        "csharp",
+        "web"
+      ]
+    },
+    {
+      "id": "auth0-rubyonrailsapi-sample",
+      "url": "https://github.com/auth0/auth0-rubyonrailsapi-sample",
+      "created_at": "2014-06-03T13:17:38Z",
+      "updated_at": "2015-01-29T23:46:19Z",
+      "pushed_at": "2015-01-29T23:46:18Z",
+      "description": "Auth0 + Ruby on Rails API Seed",
+      "fork": false,
+      "name": "Ruby on Rails API Sample",
+      "type": "sample",
+      "tags": [
+        "api",
+        "rails",
+        "ruby"
+      ]
+    },
+    {
+      "id": "auth0-s3-sample",
+      "url": "https://github.com/auth0/auth0-s3-sample",
+      "created_at": "2014-01-13T20:31:50Z",
+      "updated_at": "2015-01-28T23:24:25Z",
+      "pushed_at": "2015-01-28T23:24:25Z",
+      "description": "Demonstrates how to use AWS APIs in combination with IAM policies to build a backend-less app that interacts securely with Amazon S3",
+      "fork": false,
+      "name": "Backend-less dropbox clone",
+      "type": "sample",
+      "tags": [
+        "amazon-s3",
+        "browser",
+        "javascript",
+        "single-page-app"
+      ]
+    },
+    {
+      "id": "auth0-servicestack-sample",
+      "url": "https://github.com/auth0/auth0-servicestack-sample",
+      "created_at": "2013-05-23T16:42:18Z",
+      "updated_at": "2015-01-29T23:53:09Z",
+      "pushed_at": "2015-01-29T23:53:08Z",
+      "description": "Sample using Auth0 and ServiceStack",
+      "fork": false,
+      "name": "Service Stack Sample",
+      "type": "sample",
+      "tags": [
+        "dotnet",
+        "csharp",
+        "servicestack",
+        "web",
+        "aspnet-mvc"
+      ]
+    },
+    {
+      "id": "auth0-sso-sample",
+      "url": "https://github.com/auth0/auth0-sso-sample",
+      "created_at": "2014-12-03T14:34:20Z",
+      "updated_at": "2015-01-29T23:47:59Z",
+      "pushed_at": "2015-01-29T23:47:58Z",
+      "description": "Doing Single Sign On between SPAs and Regular Web Apps",
+      "fork": false,
+      "name": "Multiple Domain Single-Sign-On Sample",
+      "type": "sample",
+      "tags": [
+        "nodejs",
+        "web",
+        "single-sign-on"
+      ]
+    },
+    {
+      "id": "auth0-winforms-wpf-sample",
+      "url": "https://github.com/auth0/auth0-winforms-wpf-sample",
+      "created_at": "2013-08-10T18:15:53Z",
+      "updated_at": "2015-02-01T21:33:18Z",
+      "pushed_at": "2015-01-30T00:12:44Z",
+      "description": "Sample Winforms and WPF project using Auth0",
+      "fork": false,
+      "name": "WinForms and WPF Apps",
+      "type": "sample",
+      "tags": [
+        "dotnet",
+        "desktop",
+        "csharp",
+        "winforms",
+        "wpf"
+      ]
+    },
+    {
+      "id": "laravel-auth0-sample",
+      "url": "https://github.com/auth0/laravel-auth0-sample",
+      "created_at": "2014-04-28T18:59:18Z",
+      "updated_at": "2015-02-02T06:48:58Z",
+      "pushed_at": "2015-01-29T23:18:54Z",
+      "description": "Auth0 PHP Laravel sample",
+      "fork": false,
+      "name": "Laravel with Auth0",
+      "type": "sample",
+      "tags": [
+        "laravel",
+        "php",
+        "apache",
+        "heroku"
+      ]
+    },
+    {
+      "id": "rails",
+      "url": "https://github.com/auth0/rails",
+      "created_at": "2014-02-20T19:10:17Z",
+      "updated_at": "2015-01-29T23:29:10Z",
+      "pushed_at": "2015-01-29T23:29:10Z",
+      "description": "Rails example",
+      "fork": false,
+      "name": "Basic Auth0 Rails App",
+      "type": "sample",
+      "tags": [
+        "web",
+        "ruby",
+        "rails"
+      ]
+    },
+    {
+      "id": "single-page-app-seed",
+      "url": "https://github.com/auth0/single-page-app-seed",
+      "created_at": "2014-11-04T17:30:01Z",
+      "updated_at": "2015-01-29T23:30:34Z",
+      "pushed_at": "2015-01-29T23:30:34Z",
+      "description": "A very opinionated seed for creating Single Page Apps that uses NO framework at all. Just a bunch of component libs",
+      "fork": false,
+      "name": "A Single Page App without a Framework",
+      "type": "sample",
+      "tags": [
+        "web",
+        "javascript",
+        "single-page-app"
+      ]
+    },
+    {
+      "id": "spa-jwt-authentication-tutorial",
+      "url": "https://github.com/auth0/spa-jwt-authentication-tutorial",
+      "created_at": "2014-11-05T21:54:53Z",
+      "updated_at": "2015-02-01T04:41:26Z",
+      "pushed_at": "2015-01-30T00:17:31Z",
+      "description": "Add authentication to a vanilla js single page app",
+      "fork": false,
+      "name": "Single Page App + API Tutorial",
+      "type": "sample",
+      "tags": [
+        "nodejs",
+        "web",
+        "api",
+        "javascript",
+        "single-page-app"
+      ]
+    }
+  ]
+}

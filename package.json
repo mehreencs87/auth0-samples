@@ -1,0 +1,19 @@
+{
+  "name": "auth0-samples",
+  "version": "1.0.0",
+  "description": "Index of Auth0 samples",
+  "main": "index.js",
+  "scripts": {
+    "update": "node update.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ntotten/auth0-samples.git"
+  },
+  "author": "Auth0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ntotten/auth0-samples/issues"
+  },
+  "homepage": "https://github.com/ntotten/auth0-samples"
+}
